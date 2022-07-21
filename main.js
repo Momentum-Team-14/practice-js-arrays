@@ -12,6 +12,7 @@ sampleArray = ['bespoke', 'vexillologist', 'four', 'dollar', 'toast', 'ugh', 'li
 // Here is the function declaration and some starting code. You will complete the code so it 
 // does everything it is supposed to. 
 function longOrShort(wordArray) {
+    // copy the array
     let shortWords = []
     let longWords = []
     // create empty arrays and store them in variables, shortWords and longWords
